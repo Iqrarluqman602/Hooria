@@ -132,7 +132,17 @@ export const experiences = [
           
         ],
     },
-   
+    {
+        title: "Teacher as a Front-end-Developer",
+        company_name: "Arena multimedia Karachi",
+        icon: starbucks,
+        iconBg: "#accbe1",
+        date: "Dec 2023 - 3 jan 2024 ",
+        points: [
+            "1 year experience as front-end-developer Teacher in Arena multimedia Education System Karachi .",
+          
+        ],
+    },
     {
         title: "Web Developer",
         company_name: "Shopify",
