@@ -133,6 +133,17 @@ export const experiences = [
         ],
     },
     {
+        title: "Teaching as a Front-End Developer",
+        company_name: "ARENA Multimedia Educational institution in Karachi",
+        icon: tesla,
+        iconBg: "#fbc3bc",
+        date: "Jan 2021 - Feb 2022",
+        points: [
+            "1 year experience as Front-end developer Teacher in ARENA Multimedia Educational institution in Karachi.",
+          
+        ],
+    },
+    {
         title: "Web Developer",
         company_name: "Shopify",
         icon: shopify,
