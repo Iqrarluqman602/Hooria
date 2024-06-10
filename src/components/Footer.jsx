@@ -11,7 +11,7 @@ const Footer = () => {
         <p>
           © 2024 <strong><Link href="https://portfolio-iqrar.vercel.app/">PixelCraft.COM</Link></strong>. All rights reserved.
         </p>
-
+        
         <div className='flex gap-3 justify-center items-center'>
           {socialLinks.map((link) => (
             <Link key={link.name} to={link.link} target='_blank'>
