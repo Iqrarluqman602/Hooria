@@ -133,7 +133,7 @@ export const experiences = [
         ],
     },
     {
-        title: "Teacher as a Front-end-Developer",
+        title: "Teaching as a Front-end-Developer",
         company_name: "Arena multimedia Karachi",
         icon: starbucks,
         iconBg: "#accbe1",
